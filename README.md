@@ -1,4 +1,4 @@
-# Kavin calculate two numbers
+# calculate two numbers
 operator = (input("Choose any operator: +,-,*,/, "))
 a = (int(input("\n enter first number : ")))
 b = (int(input("\n Enter second number : ")))
